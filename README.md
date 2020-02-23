@@ -23,4 +23,4 @@ Moreover, notice that this add-on is not active in secure screens.
 Download from [here.][1]
 
 
-[1]: https://raw.githubusercontent.com/ABuffEr/nvdaKeyMode/master/packages/nvdaKeyMode-1.0-20200217-dev.nvda-addon
+[1]: https://raw.githubusercontent.com/ABuffEr/nvdaKeyMode/master/packages/nvdaKeyMode-1.0-20200223-dev.nvda-addon

@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""An add-on to use a customizable key/key combination as delayed NVDA key"""),
 	# version
-	"addon_version" : "1.0-20200217-dev",
+	"addon_version" : "1.0-20200223-dev",
 	# Author(s)
 	"addon_author" : u"Alberto Buffolino <a.buffolino@gmail.com>",
 	# URL for the add-on documentation support
