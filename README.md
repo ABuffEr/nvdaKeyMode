@@ -1,5 +1,8 @@
 # NVDAKeyMode #
 
+Note: due to increased support of Windows sticky keys, that now covers NVDA key too, this add-on is not actively supported; if you still consider it necessary, contact the author and expose your situation.
+
+
 This is an NVDA add-on to use any key/key combination as delayed NVDA key.
 
 For example, imagine to have to press NVDA+control+f, where NVDA is insert. If you assign insert to this add-on, via input gestures dialog, you can press insert, and then, in absolute comfort, control+f. At that point, insert is (silently) released.
